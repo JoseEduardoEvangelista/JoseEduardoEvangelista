@@ -4,9 +4,6 @@ window.addEventListener('load', function(event) {
     console.log('A página terminou de carregar!');
 });
 
-window.addEventListener('load', function(event) {
-    console.log('A página terminou de carregar2!');
-});
 
 
 function processar() {
